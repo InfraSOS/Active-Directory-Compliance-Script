@@ -1,1 +1,1 @@
-# Active-Directory-Compliance-Script
+# Active Directory Compliance Powershell Script
