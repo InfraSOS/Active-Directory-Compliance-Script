@@ -31,5 +31,6 @@ Within the script update the following fields for the local path to your logo, w
 >
 >$domain = "Infrasos.com"
 
-
+Save the changes and simply run the Powershell script.
+>.\InfraSOS_AD_Compliance.ps1
 
